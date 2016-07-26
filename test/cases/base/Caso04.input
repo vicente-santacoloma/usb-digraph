@@ -1,0 +1,470 @@
+54
+Nodo0 0
+Nodo1 0
+Nodo2 0
+Nodo3 0
+Nodo4 0
+Nodo5 0
+Nodo6 0
+Nodo7 0
+Nodo8 0
+Nodo9 0
+Nodo10 0
+Nodo11 0
+Nodo12 0
+Nodo13 0
+Nodo14 0
+Nodo15 0
+Nodo16 0
+Nodo17 0
+Nodo18 0
+Nodo19 0
+Nodo20 0
+Nodo21 0
+Nodo22 0
+Nodo23 0
+Nodo24 0
+Nodo25 0
+Nodo26 0
+Nodo27 0
+Nodo28 0
+Nodo29 0
+Nodo30 0
+Nodo31 0
+Nodo32 0
+Nodo33 0
+Nodo34 0
+Nodo35 0
+Nodo36 0
+Nodo37 0
+Nodo38 0
+Nodo39 0
+Nodo40 0
+Nodo41 0
+Nodo42 0
+Nodo43 0
+Nodo44 0
+Nodo45 0
+Nodo46 0
+Nodo47 0
+Nodo48 0
+Nodo49 0
+Nodo50 0
+Nodo51 0
+Nodo52 0
+Nodo53 0
+414
+Nodo0 Nodo2 0
+Nodo0 Nodo4 0
+Nodo0 Nodo20 0
+Nodo0 Nodo29 0
+Nodo0 Nodo36 0
+Nodo1 Nodo11 0
+Nodo1 Nodo22 0
+Nodo1 Nodo27 0
+Nodo1 Nodo39 0
+Nodo1 Nodo40 0
+Nodo1 Nodo41 0
+Nodo1 Nodo45 0
+Nodo1 Nodo48 0
+Nodo2 Nodo3 0
+Nodo2 Nodo4 0
+Nodo2 Nodo5 0
+Nodo2 Nodo6 0
+Nodo2 Nodo7 0
+Nodo2 Nodo18 0
+Nodo2 Nodo22 0
+Nodo2 Nodo41 0
+Nodo2 Nodo44 0
+Nodo2 Nodo46 0
+Nodo2 Nodo47 0
+Nodo2 Nodo52 0
+Nodo3 Nodo1 0
+Nodo3 Nodo6 0
+Nodo3 Nodo15 0
+Nodo3 Nodo19 0
+Nodo3 Nodo23 0
+Nodo3 Nodo38 0
+Nodo3 Nodo39 0
+Nodo3 Nodo41 0
+Nodo3 Nodo50 0
+Nodo3 Nodo53 0
+Nodo4 Nodo2 0
+Nodo4 Nodo3 0
+Nodo4 Nodo5 0
+Nodo4 Nodo17 0
+Nodo4 Nodo29 0
+Nodo4 Nodo45 0
+Nodo4 Nodo52 0
+Nodo4 Nodo53 0
+Nodo5 Nodo0 0
+Nodo5 Nodo2 0
+Nodo5 Nodo18 0
+Nodo5 Nodo26 0
+Nodo5 Nodo28 0
+Nodo5 Nodo31 0
+Nodo5 Nodo33 0
+Nodo5 Nodo34 0
+Nodo5 Nodo35 0
+Nodo5 Nodo36 0
+Nodo5 Nodo46 0
+Nodo5 Nodo53 0
+Nodo6 Nodo2 0
+Nodo6 Nodo4 0
+Nodo6 Nodo15 0
+Nodo6 Nodo19 0
+Nodo6 Nodo21 0
+Nodo6 Nodo23 0
+Nodo6 Nodo27 0
+Nodo6 Nodo36 0
+Nodo6 Nodo42 0
+Nodo6 Nodo46 0
+Nodo6 Nodo48 0
+Nodo6 Nodo51 0
+Nodo7 Nodo17 0
+Nodo7 Nodo18 0
+Nodo7 Nodo20 0
+Nodo7 Nodo22 0
+Nodo8 Nodo1 0
+Nodo8 Nodo4 0
+Nodo8 Nodo6 0
+Nodo8 Nodo26 0
+Nodo8 Nodo33 0
+Nodo8 Nodo34 0
+Nodo8 Nodo35 0
+Nodo9 Nodo3 0
+Nodo9 Nodo24 0
+Nodo9 Nodo25 0
+Nodo9 Nodo31 0
+Nodo9 Nodo32 0
+Nodo9 Nodo44 0
+Nodo10 Nodo2 0
+Nodo10 Nodo11 0
+Nodo10 Nodo18 0
+Nodo10 Nodo23 0
+Nodo10 Nodo51 0
+Nodo11 Nodo13 0
+Nodo11 Nodo18 0
+Nodo11 Nodo20 0
+Nodo11 Nodo21 0
+Nodo11 Nodo25 0
+Nodo11 Nodo26 0
+Nodo11 Nodo28 0
+Nodo11 Nodo31 0
+Nodo11 Nodo52 0
+Nodo12 Nodo5 0
+Nodo12 Nodo11 0
+Nodo12 Nodo17 0
+Nodo12 Nodo23 0
+Nodo12 Nodo29 0
+Nodo12 Nodo32 0
+Nodo12 Nodo33 0
+Nodo12 Nodo44 0
+Nodo12 Nodo48 0
+Nodo12 Nodo52 0
+Nodo13 Nodo5 0
+Nodo13 Nodo19 0
+Nodo13 Nodo24 0
+Nodo13 Nodo26 0
+Nodo13 Nodo29 0
+Nodo13 Nodo36 0
+Nodo13 Nodo43 0
+Nodo13 Nodo52 0
+Nodo14 Nodo2 0
+Nodo14 Nodo8 0
+Nodo14 Nodo10 0
+Nodo14 Nodo13 0
+Nodo14 Nodo19 0
+Nodo14 Nodo33 0
+Nodo14 Nodo39 0
+Nodo14 Nodo43 0
+Nodo14 Nodo48 0
+Nodo15 Nodo0 0
+Nodo15 Nodo1 0
+Nodo15 Nodo4 0
+Nodo15 Nodo8 0
+Nodo15 Nodo11 0
+Nodo15 Nodo14 0
+Nodo15 Nodo33 0
+Nodo15 Nodo41 0
+Nodo15 Nodo46 0
+Nodo15 Nodo50 0
+Nodo16 Nodo4 0
+Nodo16 Nodo20 0
+Nodo16 Nodo23 0
+Nodo16 Nodo30 0
+Nodo16 Nodo33 0
+Nodo16 Nodo43 0
+Nodo16 Nodo47 0
+Nodo16 Nodo49 0
+Nodo17 Nodo1 0
+Nodo17 Nodo14 0
+Nodo17 Nodo18 0
+Nodo17 Nodo23 0
+Nodo17 Nodo44 0
+Nodo17 Nodo50 0
+Nodo17 Nodo51 0
+Nodo18 Nodo24 0
+Nodo18 Nodo31 0
+Nodo18 Nodo34 0
+Nodo18 Nodo36 0
+Nodo19 Nodo26 0
+Nodo19 Nodo27 0
+Nodo19 Nodo31 0
+Nodo19 Nodo33 0
+Nodo19 Nodo37 0
+Nodo19 Nodo40 0
+Nodo19 Nodo51 0
+Nodo20 Nodo5 0
+Nodo20 Nodo6 0
+Nodo20 Nodo8 0
+Nodo20 Nodo11 0
+Nodo20 Nodo12 0
+Nodo20 Nodo23 0
+Nodo20 Nodo25 0
+Nodo20 Nodo35 0
+Nodo20 Nodo39 0
+Nodo21 Nodo5 0
+Nodo21 Nodo8 0
+Nodo21 Nodo28 0
+Nodo21 Nodo29 0
+Nodo21 Nodo36 0
+Nodo21 Nodo46 0
+Nodo22 Nodo12 0
+Nodo22 Nodo17 0
+Nodo22 Nodo21 0
+Nodo22 Nodo24 0
+Nodo22 Nodo34 0
+Nodo22 Nodo37 0
+Nodo22 Nodo44 0
+Nodo22 Nodo48 0
+Nodo22 Nodo53 0
+Nodo23 Nodo0 0
+Nodo23 Nodo5 0
+Nodo23 Nodo15 0
+Nodo23 Nodo46 0
+Nodo23 Nodo48 0
+Nodo23 Nodo50 0
+Nodo23 Nodo53 0
+Nodo24 Nodo0 0
+Nodo24 Nodo10 0
+Nodo24 Nodo28 0
+Nodo24 Nodo30 0
+Nodo24 Nodo44 0
+Nodo25 Nodo5 0
+Nodo25 Nodo10 0
+Nodo25 Nodo17 0
+Nodo25 Nodo33 0
+Nodo25 Nodo44 0
+Nodo25 Nodo46 0
+Nodo25 Nodo52 0
+Nodo26 Nodo0 0
+Nodo26 Nodo6 0
+Nodo26 Nodo19 0
+Nodo26 Nodo29 0
+Nodo26 Nodo34 0
+Nodo26 Nodo42 0
+Nodo27 Nodo4 0
+Nodo27 Nodo21 0
+Nodo27 Nodo44 0
+Nodo27 Nodo45 0
+Nodo27 Nodo52 0
+Nodo28 Nodo3 0
+Nodo28 Nodo13 0
+Nodo28 Nodo16 0
+Nodo28 Nodo34 0
+Nodo28 Nodo44 0
+Nodo29 Nodo9 0
+Nodo29 Nodo30 0
+Nodo29 Nodo51 0
+Nodo30 Nodo1 0
+Nodo30 Nodo42 0
+Nodo30 Nodo46 0
+Nodo31 Nodo5 0
+Nodo31 Nodo10 0
+Nodo31 Nodo13 0
+Nodo31 Nodo15 0
+Nodo31 Nodo19 0
+Nodo31 Nodo29 0
+Nodo31 Nodo41 0
+Nodo31 Nodo49 0
+Nodo31 Nodo50 0
+Nodo31 Nodo52 0
+Nodo32 Nodo2 0
+Nodo32 Nodo9 0
+Nodo32 Nodo12 0
+Nodo32 Nodo15 0
+Nodo32 Nodo22 0
+Nodo32 Nodo27 0
+Nodo32 Nodo29 0
+Nodo32 Nodo39 0
+Nodo32 Nodo45 0
+Nodo32 Nodo48 0
+Nodo33 Nodo5 0
+Nodo33 Nodo13 0
+Nodo33 Nodo17 0
+Nodo33 Nodo18 0
+Nodo33 Nodo42 0
+Nodo33 Nodo43 0
+Nodo33 Nodo45 0
+Nodo33 Nodo49 0
+Nodo34 Nodo4 0
+Nodo34 Nodo8 0
+Nodo34 Nodo15 0
+Nodo34 Nodo24 0
+Nodo34 Nodo26 0
+Nodo34 Nodo33 0
+Nodo34 Nodo39 0
+Nodo35 Nodo8 0
+Nodo35 Nodo9 0
+Nodo35 Nodo14 0
+Nodo35 Nodo27 0
+Nodo35 Nodo28 0
+Nodo35 Nodo39 0
+Nodo35 Nodo43 0
+Nodo35 Nodo47 0
+Nodo36 Nodo20 0
+Nodo36 Nodo34 0
+Nodo36 Nodo43 0
+Nodo36 Nodo49 0
+Nodo37 Nodo21 0
+Nodo37 Nodo33 0
+Nodo37 Nodo46 0
+Nodo38 Nodo15 0
+Nodo38 Nodo20 0
+Nodo38 Nodo21 0
+Nodo38 Nodo37 0
+Nodo38 Nodo47 0
+Nodo38 Nodo53 0
+Nodo39 Nodo7 0
+Nodo39 Nodo29 0
+Nodo39 Nodo44 0
+Nodo40 Nodo19 0
+Nodo40 Nodo21 0
+Nodo40 Nodo26 0
+Nodo40 Nodo41 0
+Nodo40 Nodo45 0
+Nodo40 Nodo49 0
+Nodo40 Nodo52 0
+Nodo40 Nodo53 0
+Nodo41 Nodo0 0
+Nodo41 Nodo6 0
+Nodo41 Nodo9 0
+Nodo41 Nodo10 0
+Nodo41 Nodo12 0
+Nodo41 Nodo20 0
+Nodo41 Nodo22 0
+Nodo41 Nodo23 0
+Nodo41 Nodo24 0
+Nodo41 Nodo27 0
+Nodo41 Nodo31 0
+Nodo41 Nodo38 0
+Nodo41 Nodo47 0
+Nodo41 Nodo48 0
+Nodo42 Nodo1 0
+Nodo42 Nodo12 0
+Nodo42 Nodo20 0
+Nodo42 Nodo27 0
+Nodo42 Nodo32 0
+Nodo42 Nodo37 0
+Nodo42 Nodo45 0
+Nodo43 Nodo0 0
+Nodo43 Nodo1 0
+Nodo43 Nodo2 0
+Nodo43 Nodo4 0
+Nodo43 Nodo15 0
+Nodo43 Nodo17 0
+Nodo43 Nodo18 0
+Nodo43 Nodo19 0
+Nodo43 Nodo20 0
+Nodo43 Nodo28 0
+Nodo43 Nodo40 0
+Nodo43 Nodo41 0
+Nodo43 Nodo44 0
+Nodo43 Nodo48 0
+Nodo44 Nodo2 0
+Nodo44 Nodo6 0
+Nodo44 Nodo20 0
+Nodo44 Nodo22 0
+Nodo44 Nodo36 0
+Nodo44 Nodo37 0
+Nodo44 Nodo49 0
+Nodo44 Nodo51 0
+Nodo44 Nodo53 0
+Nodo45 Nodo2 0
+Nodo45 Nodo16 0
+Nodo45 Nodo19 0
+Nodo45 Nodo20 0
+Nodo45 Nodo35 0
+Nodo45 Nodo37 0
+Nodo45 Nodo39 0
+Nodo45 Nodo44 0
+Nodo45 Nodo49 0
+Nodo45 Nodo51 0
+Nodo46 Nodo28 0
+Nodo46 Nodo42 0
+Nodo46 Nodo44 0
+Nodo46 Nodo50 0
+Nodo46 Nodo52 0
+Nodo47 Nodo17 0
+Nodo47 Nodo19 0
+Nodo47 Nodo21 0
+Nodo47 Nodo32 0
+Nodo47 Nodo34 0
+Nodo47 Nodo36 0
+Nodo47 Nodo38 0
+Nodo47 Nodo43 0
+Nodo47 Nodo46 0
+Nodo47 Nodo50 0
+Nodo48 Nodo4 0
+Nodo48 Nodo5 0
+Nodo48 Nodo13 0
+Nodo48 Nodo23 0
+Nodo48 Nodo25 0
+Nodo48 Nodo28 0
+Nodo48 Nodo37 0
+Nodo48 Nodo53 0
+Nodo49 Nodo0 0
+Nodo49 Nodo1 0
+Nodo49 Nodo16 0
+Nodo49 Nodo21 0
+Nodo49 Nodo28 0
+Nodo49 Nodo40 0
+Nodo49 Nodo53 0
+Nodo50 Nodo2 0
+Nodo50 Nodo17 0
+Nodo50 Nodo18 0
+Nodo50 Nodo20 0
+Nodo50 Nodo36 0
+Nodo50 Nodo41 0
+Nodo50 Nodo44 0
+Nodo50 Nodo53 0
+Nodo51 Nodo0 0
+Nodo51 Nodo2 0
+Nodo51 Nodo3 0
+Nodo51 Nodo6 0
+Nodo51 Nodo11 0
+Nodo51 Nodo20 0
+Nodo51 Nodo23 0
+Nodo51 Nodo32 0
+Nodo51 Nodo35 0
+Nodo51 Nodo36 0
+Nodo51 Nodo39 0
+Nodo51 Nodo40 0
+Nodo51 Nodo45 0
+Nodo51 Nodo46 0
+Nodo52 Nodo3 0
+Nodo52 Nodo4 0
+Nodo52 Nodo8 0
+Nodo52 Nodo10 0
+Nodo52 Nodo12 0
+Nodo52 Nodo31 0
+Nodo52 Nodo42 0
+Nodo52 Nodo48 0
+Nodo52 Nodo51 0
+Nodo53 Nodo10 0
+Nodo53 Nodo13 0
+Nodo53 Nodo14 0
+Nodo53 Nodo36 0
+Nodo53 Nodo44 0
+Nodo53 Nodo48 0

@@ -1,0 +1,43 @@
+8
+Nodo0 0
+Nodo1 0
+Nodo2 0
+Nodo3 0
+Nodo4 0
+Nodo5 0
+Nodo6 0
+Nodo7 0
+33
+Nodo0 Nodo2 0
+Nodo0 Nodo3 0
+Nodo0 Nodo4 0
+Nodo0 Nodo6 0
+Nodo0 Nodo7 0
+Nodo1 Nodo0 0
+Nodo1 Nodo3 0
+Nodo1 Nodo5 0
+Nodo1 Nodo6 0
+Nodo1 Nodo7 0
+Nodo2 Nodo0 0
+Nodo2 Nodo5 0
+Nodo3 Nodo0 0
+Nodo3 Nodo1 0
+Nodo4 Nodo2 0
+Nodo4 Nodo3 0
+Nodo4 Nodo7 0
+Nodo5 Nodo0 0
+Nodo5 Nodo1 0
+Nodo5 Nodo2 0
+Nodo5 Nodo4 0
+Nodo5 Nodo7 0
+Nodo6 Nodo1 0
+Nodo6 Nodo2 0
+Nodo6 Nodo3 0
+Nodo6 Nodo4 0
+Nodo6 Nodo5 0
+Nodo6 Nodo7 0
+Nodo7 Nodo0 0
+Nodo7 Nodo1 0
+Nodo7 Nodo2 0
+Nodo7 Nodo3 0
+Nodo7 Nodo4 0

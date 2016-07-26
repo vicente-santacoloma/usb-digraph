@@ -1,0 +1,80 @@
+21
+Nodo0 0
+Nodo1 0
+Nodo2 0
+Nodo3 0
+Nodo4 0
+Nodo5 0
+Nodo6 0
+Nodo7 0
+Nodo8 0
+Nodo9 0
+Nodo10 0
+Nodo11 0
+Nodo12 0
+Nodo13 0
+Nodo14 0
+Nodo15 0
+Nodo16 0
+Nodo17 0
+Nodo18 0
+Nodo19 0
+Nodo20 0
+57
+Nodo0 Nodo13 0
+Nodo1 Nodo0 0
+Nodo1 Nodo11 0
+Nodo1 Nodo16 0
+Nodo1 Nodo17 0
+Nodo2 Nodo12 0
+Nodo2 Nodo15 0
+Nodo3 Nodo0 0
+Nodo3 Nodo5 0
+Nodo3 Nodo10 0
+Nodo4 Nodo14 0
+Nodo5 Nodo0 0
+Nodo5 Nodo3 0
+Nodo5 Nodo9 0
+Nodo5 Nodo10 0
+Nodo6 Nodo3 0
+Nodo6 Nodo5 0
+Nodo6 Nodo9 0
+Nodo6 Nodo13 0
+Nodo6 Nodo17 0
+Nodo7 Nodo1 0
+Nodo7 Nodo2 0
+Nodo7 Nodo5 0
+Nodo8 Nodo19 0
+Nodo8 Nodo20 0
+Nodo9 Nodo2 0
+Nodo9 Nodo3 0
+Nodo9 Nodo11 0
+Nodo9 Nodo16 0
+Nodo11 Nodo4 0
+Nodo11 Nodo17 0
+Nodo12 Nodo4 0
+Nodo12 Nodo11 0
+Nodo13 Nodo0 0
+Nodo13 Nodo4 0
+Nodo13 Nodo14 0
+Nodo14 Nodo0 0
+Nodo14 Nodo4 0
+Nodo14 Nodo10 0
+Nodo16 Nodo11 0
+Nodo16 Nodo19 0
+Nodo17 Nodo12 0
+Nodo17 Nodo14 0
+Nodo18 Nodo0 0
+Nodo18 Nodo2 0
+Nodo18 Nodo6 0
+Nodo18 Nodo9 0
+Nodo18 Nodo13 0
+Nodo18 Nodo15 0
+Nodo18 Nodo17 0
+Nodo19 Nodo6 0
+Nodo19 Nodo17 0
+Nodo20 Nodo5 0
+Nodo20 Nodo6 0
+Nodo20 Nodo7 0
+Nodo20 Nodo10 0
+Nodo20 Nodo16 0
